@@ -70,3 +70,7 @@ header-includes: |
 
 :::
 ::::::::::::::
+
+# Sasensei challenge for Lua
+
+<https://sasensei.com/test/87#Lua>
