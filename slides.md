@@ -1,5 +1,5 @@
 ---
-title: Debut SAS User Group Germany Meetup
+title: Debut<br>SAS User Group Germany<br>Meetup
 date: 2018-09-13 SUGG#1 📍 Berlin
 keywords: [sas, sugg_meetup, meetup, berlin]
 header-includes: |
@@ -12,9 +12,8 @@ header-includes: |
   SU<br>G<span style="text-align: center; margin: 0; background: url('assets/de.svg') center; background-size: contain; margin: auto; background-clip: text; -webkit-background-clip: text; color: transparent; text-shadow: none;">G</span>
 </p>
 
-# Sponsors
+# Sponsors for today's Meetup
 
-<br>
 <br>
 
 :::::::::::::: {.columns}
@@ -71,6 +70,10 @@ header-includes: |
 :::
 ::::::::::::::
 
-# Sasensei challenge for Lua
+---
+
+###### Sasensei Lua quizz
 
 <https://sasensei.com/test/87#Lua>
+
+![](assets/sasensei-leaderboard-germany.png){ height=500px style="background:none; border:none; box-shadow:none;" }
